@@ -1,11 +1,12 @@
-﻿using System;
+using System;
 
 public class Program
 {
     // Перечисление для дней недели
     public enum Weekday
     {
-        Monday,
+        // Увеличиваем значение для первого дня недели
+        Monday = 1,
         Tuesday,
         Wednesday,
         Thursday,
@@ -28,16 +29,31 @@ public class Program
         Weekday day;
         int time;
 
-        // Запрашиваем у пользователя день недели
-        Console.Write("Enter the day of the week (0-6): ");
+        // Запрашиваем у пользователя день недели с корректными значениями
+        Console.Write("Введите день недели (1-7): ");
         int inputDay = int.Parse(Console.ReadLine());
+
+        // Проверка на корректность значения дня недели
+        if (inputDay < 1 || inputDay > 7)
+        {
+            Console.WriteLine("Неверный Ввод. День недели должен находиться между 1-7.");
+            return;
+        }
+
         day = (Weekday)inputDay;
 
-        // Запрашиваем у пользователя время
-        Console.Write("Enter the time of the day (0-23): ");
+        // Запрашиваем у пользователя время с корректными значениями
+        Console.Write("Введите время суток (0-23): ");
         time = int.Parse(Console.ReadLine());
 
-        //Получение строкового представления выбранного дня недели с помощью метода GetName класса Enum.
+        // Проверка на корректность значения времени
+        if (time < 0 || time > 23)
+        {
+            Console.WriteLine("Неверный Ввод. День недели должен находиться между 0-23.");
+            return;
+        }
+
+        // Получение строкового представления выбранного дня недели с помощью метода GetName класса Enum.
         string dayString = Enum.GetName(typeof(Weekday), day);
 
         Time timeOfDay;
