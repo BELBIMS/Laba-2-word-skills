@@ -1,0 +1,14 @@
+C:\Users\dushi\source\repos\laba 2 word skils\laba 2 word skils\bin\Debug\net8.0\laba 2 word skils.exe
+C:\Users\dushi\source\repos\laba 2 word skils\laba 2 word skils\bin\Debug\net8.0\laba 2 word skils.deps.json
+C:\Users\dushi\source\repos\laba 2 word skils\laba 2 word skils\bin\Debug\net8.0\laba 2 word skils.runtimeconfig.json
+C:\Users\dushi\source\repos\laba 2 word skils\laba 2 word skils\bin\Debug\net8.0\laba 2 word skils.dll
+C:\Users\dushi\source\repos\laba 2 word skils\laba 2 word skils\bin\Debug\net8.0\laba 2 word skils.pdb
+C:\Users\dushi\source\repos\laba 2 word skils\laba 2 word skils\obj\Debug\net8.0\laba 2 word skils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dushi\source\repos\laba 2 word skils\laba 2 word skils\obj\Debug\net8.0\laba 2 word skils.AssemblyInfoInputs.cache
+C:\Users\dushi\source\repos\laba 2 word skils\laba 2 word skils\obj\Debug\net8.0\laba 2 word skils.AssemblyInfo.cs
+C:\Users\dushi\source\repos\laba 2 word skils\laba 2 word skils\obj\Debug\net8.0\laba 2 word skils.csproj.CoreCompileInputs.cache
+C:\Users\dushi\source\repos\laba 2 word skils\laba 2 word skils\obj\Debug\net8.0\laba 2 word skils.dll
+C:\Users\dushi\source\repos\laba 2 word skils\laba 2 word skils\obj\Debug\net8.0\refint\laba 2 word skils.dll
+C:\Users\dushi\source\repos\laba 2 word skils\laba 2 word skils\obj\Debug\net8.0\laba 2 word skils.pdb
+C:\Users\dushi\source\repos\laba 2 word skils\laba 2 word skils\obj\Debug\net8.0\laba 2 word skils.genruntimeconfig.cache
+C:\Users\dushi\source\repos\laba 2 word skils\laba 2 word skils\obj\Debug\net8.0\ref\laba 2 word skils.dll

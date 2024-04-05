@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "laba 2 word skils/1.0.0": {
+        "runtime": {
+          "laba 2 word skils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laba 2 word skils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
