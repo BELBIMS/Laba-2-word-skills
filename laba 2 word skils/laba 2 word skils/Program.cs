@@ -79,6 +79,6 @@ public class Program
         string timeString = Enum.GetName(typeof(Time), timeOfDay);
 
         // Выводим сообщение о текущем дне недели и времени суток
-        Console.WriteLine($"Currently it is {dayString}, {timeString}");
+        Console.WriteLine($"Сейчас {dayString}, {timeString}");
     }
 }
